@@ -8,8 +8,6 @@ _by Collin McCarter_
 <br>
 _https://www.linkedin.com/in/collin-mccarter/_
 <br>
-_https://github.com/flolabs-cm_
-<br>
 
 * 2022 - TODAY ... Data Science, Northwestern Mutual
 * 2020 - 2022  ... Technology & Product Management, Trellance (Credit Unions)
